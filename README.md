@@ -24,21 +24,20 @@ Sistema web interactivo desarrollado como un manual técnico digital avanzado pa
 - **Base de Datos:** MySQL (Base de datos relacional que vincula de manera estricta marcas, modelos, años y la secuencia lógica de pasos de instalación).
 
 ---
-
 ## 📸 Vista Previa de la Interfaz
 
 ### 🔒 Control de Acceso Profesional
-![Inicio de Sesión Técnico](Login.jpg)
+![Inicio de Sesión Técnico](Login.jpeg)
 
 ### 🔍 Catálogo Principal y Selección de Flota
 ![Panel de Selección de Vehículo](Sellecion%20de%20Vehiculo.png)
 ![Filtro por Modelo y Año](Modelo%20de%20vehiculo%20a%20elegir.jpg)
 
 ### 📋 Visualización General del Manual Técnico
-![Dashboard del Sistema](Dashboard%20.jpg)
+![Dashboard del Sistema](Dashboard%20.jpeg)
 
 ### 🛠️ Guías Fotográficas e Instrucciones de Conexión
-![Detalles Técnicos y Pasos](Detalles.jpg)
+![Detalles Técnicos y Pasos](Detalles.jpeg)
 
 ### 📝 Panel de Administración y Modificación de Guías
 ![Edición de Contenido Técnico](Editar%20.png)
