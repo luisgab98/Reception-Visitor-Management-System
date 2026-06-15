@@ -27,17 +27,17 @@ Sistema web interactivo desarrollado como un manual técnico digital avanzado pa
 ## 📸 Vista Previa de la Interfaz
 
 ### 🔒 Control de Acceso Profesional
-![Inicio de Sesión Técnico](Login.jpeg)
+![Inicio de Sesión Técnico](Login.png)
 
 ### 🔍 Catálogo Principal y Selección de Flota
 ![Panel de Selección de Vehículo](Sellecion%20de%20Vehiculo.png)
-![Filtro por Modelo y Año](Modelo%20de%20vehiculo%20a%20elegir.jpg)
+![Filtro por Modelo y Año](Modelo%20de%20vehiculo%20a%20elegir.png)
 
 ### 📋 Visualización General del Manual Técnico
-![Dashboard del Sistema](Dashboard%20.jpeg)
+![Dashboard del Sistema](Dashboard%20.png)
 
 ### 🛠️ Guías Fotográficas e Instrucciones de Conexión
-![Detalles Técnicos y Pasos](Detalles.jpeg)
+![Detalles Técnicos y Pasos](Detalles.png)
 
 ### 📝 Panel de Administración y Modificación de Guías
 ![Edición de Contenido Técnico](Editar%20.png)
